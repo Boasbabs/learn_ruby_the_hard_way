@@ -1,0 +1,3 @@
+i am learning ruby
+i am yet to grab it 
+i know with time i will get just like i did for javascript
